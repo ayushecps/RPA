@@ -1,0 +1,15 @@
+categories:
+- onboarding
+conversations:
+- - who is the offboarding SPOC of MICS?
+  - Please see the SPOC details of your respective VC's at <url>
+- - What is the offboarding process
+  - Offboarding is the process in which all logical and physical acceces of an assosciate is revoked. For more details you can contact the SPOC.
+- - How can I offboard an assosciate?
+  - To offboard an assosciate please contact the offfboarding SPOC for your VC.
+- - What is the  process for revoking access?
+  - Raise a offboarding request. You can take help from the offboarding SPOC of the VC
+- - When do we  need to innitiate Offboarding?
+  - We need to initiate offboarding process when an assosciate is leaving Lilly account.
+- - Why do we neeed offboarding?
+  - Offboarding is needed for revoking physical and logical security of an associaye so that access of ODC can be restricted for unauthorized persons.

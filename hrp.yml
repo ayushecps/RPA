@@ -1,0 +1,37 @@
+categories:
+- HRP
+conversations:
+- - Who is the HRP SPOC of MICS
+  - Arpita Srivastava is HRP SPOC.
+- - Who is the HRP SPOC of GSIT
+  - XYZ is HRP SPOC.
+- - What is the HRP Process
+  - Which HRP process you want to know about Creation, deletion, Modification ?.
+- - What is HRP Creation ?
+  - HRP Creation is a process where Associates name is shared with customer. For more details, please get in touch with HRP SPOC for your VC.
+- - Why HRP Creation ?
+  - HRP is created in order to gain access to Lilly net environment.
+- - When HRP is Created ?
+  - If the onboarding of the associate is already done then please go to <URL of HRP Creation>.
+- - How HRP is Created ?
+  - Here you go <URL of HRP Creation>.
+- - What is HRP Modification ?
+  - HRP Modification is a process where associates lilly sponsor is modified.
+- - Why HRP Modification ?
+  - In case of project change of associate in which case customer may also get changed or domain of associate changed, all these changes are done by HRP modification.
+- - When HRP is Modified ?
+  - When associate is already working in lilly environment i.e lilly id of the associate already exists.
+- - How HRP is Modified ?
+  - Here you go <URL of HRP Modification>.
+- - What is HRP Deletion ?
+  - HRP Deletion is a process in which Associates contact is stopped sharing with the Customer as a resource in Project.
+- - Why HRP Deletion ?
+  - HRP should be deleted when Associate is leaving the Lilly Account so that Lilly id of the associate is no longer accessible.
+- - When HRP is Deleted ?
+  - HRP Should be deleted as soon as Associate leaves the Lilly Account.
+- - How HRP is deleted ?
+  - If you really want to Delete the HRP of an associate then please click <a href="https://www.google.co.in." target="_blank">here</a>
+- - Who creates HRP Request ?
+  - Project lead of the associate.
+- - What is the full form of HRP ?
+  - Full form of HRP is Human Resouce Planning.
